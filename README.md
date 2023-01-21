@@ -40,9 +40,7 @@ Program:
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Lokesh N
 RegisterNumber:  22008481
-
 Half adder program:
-
 module halfadd (a,b,sum,carry);
 input a,b;
 output sum,carry;
@@ -51,7 +49,6 @@ assign carry = (a&b);
 endmodule
 
 Full adder program:
-
 module fulladd (a,b,c,sum,carry);
 input a,b,c;
 output sum,carry;
