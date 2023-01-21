@@ -41,7 +41,6 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: Lokesh N
 RegisterNumber:  22008481
 
-
 Half adder program:
 
 module halfadd (a,b,sum,carry);
